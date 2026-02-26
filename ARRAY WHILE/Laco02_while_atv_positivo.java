@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Laco03_while_atv_positivo {
+public class Laco02_while_atv_positivo {
     public static void main(String[] args) {
 
     

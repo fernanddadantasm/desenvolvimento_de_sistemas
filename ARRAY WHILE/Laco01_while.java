@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Laco02_while {
+public class Laco01_while {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

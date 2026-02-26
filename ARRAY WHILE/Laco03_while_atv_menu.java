@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Laco04_while_atv_menu {
+public class Laco03_while_atv_menu {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
