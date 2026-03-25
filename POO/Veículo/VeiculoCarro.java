@@ -16,7 +16,7 @@ public class VeiculoCarro extends Veiculo {
         this.portas = portas;
     }
 
-    @Override
+    
     public void exibirDados() {
         super.exibirDados();
         System.out.println("Portas: " + getPortas());
