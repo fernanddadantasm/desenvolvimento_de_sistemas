@@ -1,0 +1,8 @@
+package POO.Animal;
+
+public class Gato extends Animal {
+    public void fazerSom() {
+        System.out.println("O gato mia: Miau Miau!");
+    }
+    
+}
