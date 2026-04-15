@@ -1,6 +1,7 @@
-public class Gato extends Animal {
-    public void fazerSom() {
-        System.out.println("O gato mia: Miau Miau!");
+public class Gato extends Animal2 {
+    
+    public void fazerSom(){
+        System.out.println("Miau!");
     }
     
 }

@@ -1,10 +1,8 @@
-public class Cachorro extends Animal {
-    public void fazerSom() {
-        System.out.println("O cachorro late: Au Au!");
+
+public  class Cachorro extends Animal2 {
+    
+    public void fazerSom(){
+        System.out.println("Au Au!");
     }
     
-}
-
-abstract class Animal {
-    public abstract void fazerSom();
 }
